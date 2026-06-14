@@ -2,10 +2,6 @@
 
 > An intelligent, production-ready web application that predicts car resale values using Machine Learning with 95% accuracy.
 
-## ✨ Live Demo
-
-[![Open in Streamlit](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://your-app-link.streamlit.app)
-
 ## 📊 Project Overview
 
 This AI-powered Car Price Predictor helps users estimate the resale value of their cars based on multiple factors including brand, model, year, kilometers driven, and fuel type. The application features a beautiful dashboard, market insights, car comparison tools, and depreciation analysis.
