@@ -36,25 +36,25 @@ This AI-powered Car Price Predictor helps users estimate the resale value of the
 - **Data Processing**: Pandas, NumPy, Scikit-learn
 
 ## 📁 Project Structure
-AI-Car-Price-Predictor/
+AI-CAR-PRICE-PREDICTOR/
 │
-├── app.py # Main Streamlit application
-├── train_model.py # Model training script
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+├── app.py                          # Main Streamlit application
+├── train_model.py                  # Model training script
+├── requirements.txt                # Python dependencies
+├── README.md                       # Project documentation
+├── .gitignore                      # Git ignore file
+├── LICENSE                         # MIT License
 │
-├── model/ # Saved models
-│ ├── model.pkl
-│ └── label_encoders.pkl
+├── data/
+│   ├── car.csv                     # Sample dataset (optional)
+│   └── .gitkeep                    # Keep folder in git
 │
-├── data/ # Dataset files
-│ ├── car.csv # Raw dataset
-│ └── clean_data.csv # Processed data
+├── model/
+│   └── .gitkeep                    # Keep folder in git
 │
-└── assets/ # Images and assets
-├── banner.png
-└── logo.png
-
+└── assets/
+    ├── .gitkeep                    # Keep folder in git
+    └── style.css                   # Additional CSS (optional)
 text
 
 ## 🚀 Installation & Setup
